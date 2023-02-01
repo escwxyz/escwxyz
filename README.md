@@ -1,8 +1,9 @@
-## Hi there, I'm Jie 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning Rust 🦀️ and Substrate
 - 🥅 2023 Goals: start writing blogs, build applications in Rust, learn more about Blockchain, contribute to OSS
 - ⚡ Fun fact: I love 3D things, I'm interested in WebGL / WebGPU, I build models with Blender
+- 🎯 I am looking for a job in frontend, preferably can work remotely (UTF+8)
 
 #### Technologies:
 
