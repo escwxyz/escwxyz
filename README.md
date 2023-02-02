@@ -30,6 +30,8 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-eee?&logo=prisma&logoColor=2D3748)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-eee?&logo=graphql&logoColor=E10098)
 ![Solidity](https://img.shields.io/badge/-Solidity-eee?&logo=solidity&logoColor=363636)
+![GLSL](https://img.shields.io/badge/-GLSL-eee?&logo=opengl&logoColor=5586A4)
+
 
 #### Databases:
 
