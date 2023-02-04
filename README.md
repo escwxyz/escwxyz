@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React-eee?&logo=react&logoColor=61DAFB)
 ![Solidjs](https://img.shields.io/badge/-Solid-eee?&logo=solid&logoColor=2C4F7C)
 ![Next.js](https://img.shields.io/badge/-Next.js-eee?&logo=next.js&logoColor=000000)
+![Remix](https://img.shields.io/badge/-Remix-eee?&logo=remix&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/-Flutter-eee?&logo=flutter&logoColor=02569B)
 
 #### Programming Languages:
