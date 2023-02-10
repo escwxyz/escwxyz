@@ -16,6 +16,11 @@
 ![Remix](https://img.shields.io/badge/-Remix-eee?&logo=remix&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/-Flutter-eee?&logo=flutter&logoColor=02569B)
 
+#### Libraries:
+
+![three.js](https://img.shields.io/badge/-Three.js-eee?&logo=three.js&logoColor=000000)
+![p5.js](https://img.shields.io/badge/-p5.js-eee?&logo=p5.js&logoColor=ED225D)
+
 #### Programming Languages:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-eee?&logo=TypeScript&logoColor=3178C6)
@@ -23,11 +28,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-eee?&logo=rust&logoColor=000000)
 ![Dart](https://img.shields.io/badge/-Dart-eee?&logo=dart&logoColor=0175C2)
 ![Lua](https://img.shields.io/badge/-Lua-eee?&logo=lua&logoColor=2C2D72)
-
-#### Libraries:
-
-![three.js](https://img.shields.io/badge/-Three.js-eee?&logo=three.js&logoColor=000000)
-![p5.js](https://img.shields.io/badge/-p5.js-eee?&logo=p5.js&logoColor=ED225D)
 
 #### Domain Specific Languages:
 
