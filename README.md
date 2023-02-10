@@ -24,6 +24,11 @@
 ![Dart](https://img.shields.io/badge/-Dart-eee?&logo=dart&logoColor=0175C2)
 ![Lua](https://img.shields.io/badge/-Lua-eee?&logo=lua&logoColor=2C2D72)
 
+#### Libraries:
+
+![three.js](https://img.shields.io/badge/-Three.js-eee?&logo=three.js&logoColor=000000)
+![p5.js](https://img.shields.io/badge/-p5.js-eee?&logo=p5.js&logoColor=ED225D)
+
 #### Domain Specific Languages:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-eee?&logo=html5&logoColor=E34F26)
