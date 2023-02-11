@@ -15,9 +15,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-eee?&logo=next.js&logoColor=000000)
 ![Remix](https://img.shields.io/badge/-Remix-eee?&logo=remix&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/-Flutter-eee?&logo=flutter&logoColor=02569B)
-
-#### Libraries:
-
 ![three.js](https://img.shields.io/badge/-Three.js-eee?&logo=three.js&logoColor=000000)
 ![p5.js](https://img.shields.io/badge/-p5.js-eee?&logo=p5.js&logoColor=ED225D)
 
