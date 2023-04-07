@@ -25,7 +25,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_ignored: shell, javascript, html, css, sass, dockerfile, makefile, cmake, 
-          plugin_languages_details: percentage, bytes-size
-          plugin_lines: yes
+          plugin_languages_ignored: shell, javascript, html, css, sass, dockerfile, makefile, cmake, handlebars, ruby
+          plugin_languages_details: percentage
 
