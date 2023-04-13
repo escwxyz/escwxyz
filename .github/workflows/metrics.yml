@@ -3,7 +3,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 23 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_ignored: markdown, shell, javascript, html, css, sass, dockerfile, makefile, cmake, handlebars, ruby
           plugin_languages_details: percentage
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
           plugin_wakatime_languages_ignored: markdown, shell, javascript, html, css, sass, dockerfile, makefile, cmake, handlebars, ruby
           plugin_wakatime_token: ${{ secrets.WAKATIME_API }}
 
