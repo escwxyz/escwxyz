@@ -27,6 +27,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: yaml, markdown, shell, javascript, html, css, sass, dockerfile, makefile, cmake, handlebars, ruby, toml
           plugin_languages_details: percentage
+          plugin_leetcode: yes
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
           plugin_wakatime_languages_ignored: yaml, markdown, shell, javascript, html, css, sass, dockerfile, makefile, cmake, handlebars, ruby, toml
