@@ -10,6 +10,9 @@
   
    <details><summary><samp>stats</samp></summary><br> 
      <img src="/github-metrics.svg" alt="metrics" />
+      
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
    </details> 
   
  </div>
