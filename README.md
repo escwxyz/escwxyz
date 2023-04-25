@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -47,7 +47,7 @@ leetcode                 2 hrs 20 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 2023/04/25 14:38:30 UTC
+ Last Updated on 2023/04/25 18:16:08 UTC
 <!--END_SECTION:waka-->
 
 <div align="center"> 
