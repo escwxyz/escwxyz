@@ -1,0 +1,26 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '00 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "en"
+          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
+          SHOW_OS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"        
