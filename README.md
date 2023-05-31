@@ -11,12 +11,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   98.29 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvim                     9 mins              █████████████████████████   98.29 % 
-bfe                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+No Activity Tracked This Week
 ```
 
 
