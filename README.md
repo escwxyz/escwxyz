@@ -1,6 +1,6 @@
 # Hello there
 
-🦀 I am learning Rust, building SaaS 💻
+🦀 Keep learning, never stop building 💻
 
 ## About me
 
