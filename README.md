@@ -22,4 +22,11 @@
 
 ### Stats
 
-![J's GitHub stats](https://github-readme-stats-red-theta-72.vercel.app/api?username=escwxyz&theme=dark&show_icons=true)
+<a href="https://github.com/escwxyz">
+  <img height=200 align="center" src="https://github-readme-stats-red-theta-72.vercel.app/api?username=escwxyz&show_icons=true&theme=dark&include_all_commits=true" />
+</a>
+<a href="https://github.com/escwxyz">
+  <img height=200 align="center" src="https://github-readme-stats-red-theta-72.vercel.app/api/top-langs?username=escwxyz&layout=pie&card_width=320&size_weight=0.5&count_weight=0.5&hide=markdown" />
+</a>
+
+
